@@ -53,7 +53,7 @@ This project aims to streamline **donation tracking, donor engagement, and outre
 1. Clone this repository:
    ```sh
    git clone https://github.com/LLM-Model.git
-   cd your-repo-name
+   cd LLM-Model
    ```
 2. Install dependencies:
    ```sh
