@@ -1,0 +1,385 @@
+Region,Year,Month,Season,Food_Demand,Demand_Growth_Rate,Urgency_Level,Outreach_Type,Funds_Raised,Donors_Reached,Donor_Response_Rate,Meals_Provided,Distribution_Coverage,Activity_Cost
+Region A,2023,1,Winter,9799,3.53,High,Food Drive,15883,161,23.53,2071,21.13,1342
+Region A,2023,1,Winter,4545,3.52,Low,Email Campaign,7990,55,68.47,3465,76.24,3769
+Region A,2023,1,Winter,9735,2.26,Low,Phone Outreach,18422,163,21.47,1667,17.12,1338
+Region A,2023,1,Winter,8459,2.07,Low,Social Media Campaign,12392,261,48.56,1663,19.66,1262
+Region A,2023,2,Winter,2407,4.79,Medium,Food Drive,14682,93,28.17,1686,70.05,3068
+Region A,2023,2,Winter,3547,1.01,Medium,Email Campaign,10078,160,54.83,3509,98.93,4852
+Region A,2023,2,Winter,4157,1.32,Medium,Phone Outreach,18580,249,66.9,1587,38.18,3133
+Region A,2023,2,Winter,3768,4.7,High,Social Media Campaign,6621,274,43.01,1811,48.06,2053
+Region A,2023,3,Winter,7214,1.93,Low,Food Drive,7794,153,64.52,5447,75.51,3002
+Region A,2023,3,Winter,5626,3.63,Low,Email Campaign,14118,139,23.31,2636,46.85,2455
+Region A,2023,3,Winter,6749,3.01,High,Phone Outreach,6293,205,29.64,3252,48.18,1191
+Region A,2023,3,Winter,8791,1.43,Medium,Social Media Campaign,9530,76,37.05,4030,45.84,2964
+Region A,2023,4,Spring,3952,3.7,Medium,Food Drive,14344,82,58.06,3705,93.75,3433
+Region A,2023,4,Spring,2878,1.26,Low,Email Campaign,13803,124,21.91,2744,95.34,3198
+Region A,2023,4,Spring,5368,1.21,High,Phone Outreach,13592,243,64.78,2539,47.3,4701
+Region A,2023,4,Spring,8693,3.82,Medium,Social Media Campaign,6077,210,36.15,8581,98.71,4868
+Region A,2023,5,Spring,9553,4.9,High,Food Drive,17288,177,33.71,6398,66.97,1159
+Region A,2023,5,Spring,3238,3.39,Low,Email Campaign,13518,221,64.92,1226,37.86,4993
+Region A,2023,5,Spring,8900,1.03,Medium,Phone Outreach,13104,140,31.89,4692,52.72,4447
+Region A,2023,5,Spring,7108,3.72,Low,Social Media Campaign,7743,59,58.16,3189,44.86,2137
+Region A,2023,6,Spring,3568,3.41,High,Food Drive,7860,78,36.87,2680,75.11,2814
+Region A,2023,6,Spring,4595,1.18,Low,Email Campaign,10635,223,31.26,3111,67.7,4267
+Region A,2023,6,Spring,3723,4.97,High,Phone Outreach,7437,121,30.29,1674,44.96,4466
+Region A,2023,6,Spring,9525,1.49,Low,Social Media Campaign,14809,117,32.76,4004,42.04,3571
+Region A,2023,7,Summer,4146,3.76,Medium,Food Drive,5180,93,36.14,2742,66.14,1995
+Region A,2023,7,Summer,8663,1.14,Low,Email Campaign,18764,114,36.12,8461,97.67,2363
+Region A,2023,7,Summer,6869,3.92,High,Phone Outreach,16830,241,34.44,4277,62.27,2463
+Region A,2023,7,Summer,5601,4.89,High,Social Media Campaign,17610,300,30.44,3004,53.63,3578
+Region A,2023,8,Summer,3453,4.5,High,Food Drive,19984,297,28.65,2563,74.23,3252
+Region A,2023,8,Summer,9038,1.3,High,Email Campaign,7718,150,26.21,2650,29.32,3748
+Region A,2023,8,Summer,4844,1.95,Medium,Phone Outreach,5368,219,65.0,4007,82.72,3212
+Region A,2023,8,Summer,3251,4.74,Low,Social Media Campaign,9623,76,34.2,2184,67.18,1399
+Region A,2023,9,Summer,5894,2.85,High,Food Drive,6005,131,28.21,2176,36.92,4491
+Region A,2023,9,Summer,9005,4.67,Low,Email Campaign,19920,156,24.28,7616,84.58,1818
+Region A,2023,9,Summer,8690,3.54,High,Phone Outreach,13807,252,61.45,2211,25.44,2203
+Region A,2023,9,Summer,7378,3.66,Low,Social Media Campaign,11882,79,24.14,3208,43.48,2471
+Region A,2023,10,Autumn,3488,4.18,High,Food Drive,13312,208,22.82,2445,70.1,3624
+Region A,2023,10,Autumn,9267,3.42,Medium,Email Campaign,10664,161,32.07,2657,28.67,4957
+Region A,2023,10,Autumn,4878,1.37,High,Phone Outreach,18447,69,50.57,2964,60.76,2750
+Region A,2023,10,Autumn,3419,4.03,High,Social Media Campaign,13791,254,63.73,1910,55.86,4747
+Region A,2023,11,Autumn,7552,4.2,High,Food Drive,12593,176,50.15,4643,61.48,3737
+Region A,2023,11,Autumn,2728,2.47,High,Email Campaign,14681,69,65.1,2353,86.25,1521
+Region A,2023,11,Autumn,5275,4.17,Medium,Phone Outreach,12762,190,24.92,3412,64.68,4916
+Region A,2023,11,Autumn,7724,2.01,High,Social Media Campaign,8900,111,20.41,6697,86.7,2618
+Region A,2023,12,Autumn,3071,1.88,Low,Food Drive,16101,208,53.24,2466,80.3,1915
+Region A,2023,12,Autumn,6677,2.81,High,Email Campaign,12613,115,23.28,4050,60.66,2780
+Region A,2023,12,Autumn,2095,3.18,High,Phone Outreach,8293,127,21.58,1811,86.44,3623
+Region A,2023,12,Autumn,7393,1.11,High,Social Media Campaign,10588,141,64.27,3726,50.4,3902
+Region A,2024,1,Winter,3039,2.28,Low,Food Drive,11793,72,44.47,2159,71.04,1348
+Region A,2024,1,Winter,4129,1.9,Medium,Email Campaign,11797,189,69.29,4012,97.17,3937
+Region A,2024,1,Winter,5041,2.5,High,Phone Outreach,6749,268,69.4,1298,25.75,1853
+Region A,2024,1,Winter,7095,4.96,Low,Social Media Campaign,9859,171,32.18,3979,56.08,1184
+Region A,2024,2,Winter,7846,4.07,High,Food Drive,17562,205,29.5,2464,31.4,2463
+Region A,2024,2,Winter,8082,2.34,Low,Email Campaign,19061,120,35.84,5764,71.32,1693
+Region A,2024,2,Winter,5961,1.88,Low,Phone Outreach,11987,175,21.93,5332,89.45,4993
+Region A,2024,2,Winter,4785,2.79,High,Social Media Campaign,19564,58,31.69,2852,59.6,3807
+Region A,2024,3,Winter,5227,1.51,High,Food Drive,5125,106,48.11,2100,40.18,2260
+Region A,2024,3,Winter,7594,4.25,Low,Email Campaign,18579,256,64.82,3448,45.4,4585
+Region A,2024,3,Winter,7520,4.16,Low,Phone Outreach,14616,201,57.83,5733,76.24,3211
+Region A,2024,3,Winter,5743,4.97,High,Social Media Campaign,13922,208,53.8,1394,24.27,1895
+Region A,2024,4,Spring,6962,1.95,High,Food Drive,16993,251,21.35,3801,54.6,4438
+Region A,2024,4,Spring,6866,4.87,High,Email Campaign,8098,187,30.1,4674,68.07,3304
+Region A,2024,4,Spring,2579,2.42,Low,Phone Outreach,9025,288,34.63,2340,90.73,3687
+Region A,2024,4,Spring,9713,2.31,High,Social Media Campaign,8137,263,48.9,5749,59.19,2887
+Region A,2024,5,Spring,9524,1.34,Low,Food Drive,5523,128,50.81,7514,78.9,1016
+Region A,2024,5,Spring,2178,2.01,High,Email Campaign,15897,212,53.45,1174,53.9,4185
+Region A,2024,5,Spring,8815,1.63,Low,Phone Outreach,14343,221,56.19,7112,80.68,3200
+Region A,2024,5,Spring,8024,3.33,High,Social Media Campaign,19773,200,62.96,1040,12.96,1251
+Region A,2024,6,Spring,8515,2.67,Low,Food Drive,5515,162,66.76,1488,17.48,2949
+Region A,2024,6,Spring,8315,4.49,Medium,Email Campaign,19528,75,69.72,1780,21.41,3867
+Region A,2024,6,Spring,2907,3.11,Medium,Phone Outreach,19479,186,55.46,1070,36.81,1181
+Region A,2024,6,Spring,5921,1.69,High,Social Media Campaign,18160,299,54.34,1374,23.21,2099
+Region A,2024,7,Summer,5338,3.07,High,Food Drive,10773,58,40.09,4283,80.24,2677
+Region A,2024,7,Summer,7529,4.94,Low,Email Campaign,5503,181,58.4,6794,90.24,3386
+Region A,2024,7,Summer,5944,3.39,Medium,Phone Outreach,7946,295,46.08,5368,90.31,1621
+Region A,2024,7,Summer,7943,2.37,High,Social Media Campaign,15838,204,46.2,6033,75.95,2232
+Region A,2024,8,Summer,2767,4.03,Low,Food Drive,15080,196,66.32,1288,46.55,4329
+Region A,2024,8,Summer,7971,3.38,Low,Email Campaign,17780,295,56.79,1562,19.6,1245
+Region A,2024,8,Summer,4527,4.01,High,Phone Outreach,11309,290,28.06,3173,70.09,1763
+Region A,2024,8,Summer,6761,1.95,High,Social Media Campaign,9819,74,48.63,3063,45.3,3725
+Region A,2024,9,Summer,7058,3.74,Low,Food Drive,17433,129,36.61,5559,78.76,2828
+Region A,2024,9,Summer,3434,2.6,Low,Email Campaign,13228,55,58.37,1257,36.6,4189
+Region A,2024,9,Summer,7468,3.35,Low,Phone Outreach,14793,282,35.14,5108,68.4,3967
+Region A,2024,9,Summer,5040,1.04,High,Social Media Campaign,9783,181,64.13,4824,95.71,1555
+Region A,2024,10,Autumn,4584,4.47,Low,Food Drive,12283,115,22.13,1706,37.22,1447
+Region A,2024,10,Autumn,8005,4.08,High,Email Campaign,8468,268,24.71,4361,54.48,1421
+Region A,2024,10,Autumn,6721,3.76,Low,Phone Outreach,10080,232,33.97,4377,65.12,2891
+Region A,2024,10,Autumn,5434,2.56,Medium,Social Media Campaign,11020,58,60.53,5023,92.44,4285
+Region A,2024,11,Autumn,5492,2.48,Low,Food Drive,17174,96,49.24,2824,51.42,2154
+Region A,2024,11,Autumn,2487,1.08,High,Email Campaign,14013,172,52.31,1386,55.73,2737
+Region A,2024,11,Autumn,8780,3.94,Low,Phone Outreach,17459,62,22.3,5291,60.26,2406
+Region A,2024,11,Autumn,9237,2.08,Medium,Social Media Campaign,10482,98,45.35,1763,19.09,4103
+Region A,2024,12,Autumn,4640,2.2,Medium,Food Drive,16889,56,41.64,3622,78.06,2666
+Region A,2024,12,Autumn,7924,1.92,Medium,Email Campaign,10814,259,27.67,7417,93.6,2933
+Region A,2024,12,Autumn,6326,1.67,Low,Phone Outreach,11640,55,53.72,4300,67.97,3786
+Region A,2024,12,Autumn,3168,1.97,High,Social Media Campaign,11750,73,33.96,2656,83.84,2254
+Region B,2023,1,Winter,8168,2.11,High,Food Drive,12591,89,61.09,4688,57.39,1689
+Region B,2023,1,Winter,9297,3.1,Medium,Email Campaign,17782,68,31.92,7087,76.23,3552
+Region B,2023,1,Winter,9752,1.51,Low,Phone Outreach,16316,113,52.47,4342,44.52,2860
+Region B,2023,1,Winter,3594,1.19,Medium,Social Media Campaign,6387,234,62.05,2182,60.71,3928
+Region B,2023,2,Winter,8458,2.23,High,Food Drive,14770,61,46.75,5251,62.08,2411
+Region B,2023,2,Winter,4036,4.86,High,Email Campaign,15719,260,33.02,1342,33.25,1091
+Region B,2023,2,Winter,9878,2.88,Medium,Phone Outreach,15439,209,40.54,5113,51.76,4906
+Region B,2023,2,Winter,5308,2.01,Medium,Social Media Campaign,12646,225,22.38,3967,74.74,1052
+Region B,2023,3,Winter,8551,2.01,High,Food Drive,5332,260,46.33,5716,66.85,3099
+Region B,2023,3,Winter,8304,3.78,High,Email Campaign,11861,156,32.82,1110,13.37,3849
+Region B,2023,3,Winter,5067,2.5,Medium,Phone Outreach,18063,136,63.16,1207,23.82,4205
+Region B,2023,3,Winter,4154,2.26,Low,Social Media Campaign,5608,289,42.29,2568,61.82,1408
+Region B,2023,4,Spring,6923,1.6,Low,Food Drive,19391,184,20.49,4538,65.55,1236
+Region B,2023,4,Spring,8952,1.7,Medium,Email Campaign,15786,185,43.48,6192,69.17,1774
+Region B,2023,4,Spring,3232,4.4,High,Phone Outreach,8695,67,40.68,1115,34.5,4991
+Region B,2023,4,Spring,6979,2.58,Medium,Social Media Campaign,11541,180,34.65,1896,27.17,3425
+Region B,2023,5,Spring,5612,3.73,Medium,Food Drive,18308,202,41.5,5012,89.31,1451
+Region B,2023,5,Spring,5021,1.09,High,Email Campaign,18500,147,34.57,4613,91.87,3720
+Region B,2023,5,Spring,5235,2.8,Medium,Phone Outreach,16674,201,23.35,3875,74.02,3481
+Region B,2023,5,Spring,6765,1.14,Medium,Social Media Campaign,17171,223,32.92,2225,32.89,3492
+Region B,2023,6,Spring,8028,2.54,Medium,Food Drive,18572,193,38.47,2564,31.94,4859
+Region B,2023,6,Spring,9475,2.31,High,Email Campaign,7107,256,53.86,2584,27.27,4691
+Region B,2023,6,Spring,5432,1.33,High,Phone Outreach,7729,246,21.21,3059,56.31,1590
+Region B,2023,6,Spring,3738,4.11,High,Social Media Campaign,15223,82,51.54,1211,32.4,3120
+Region B,2023,7,Summer,8566,1.66,Low,Food Drive,17179,138,56.9,1857,21.68,2548
+Region B,2023,7,Summer,4559,3.49,Low,Email Campaign,10100,252,51.85,2109,46.26,3222
+Region B,2023,7,Summer,8161,2.17,Medium,Phone Outreach,18231,135,68.76,2932,35.93,1847
+Region B,2023,7,Summer,6304,3.21,High,Social Media Campaign,8429,206,20.62,1381,21.91,4867
+Region B,2023,8,Summer,8414,3.54,Medium,Food Drive,14743,109,67.84,1205,14.32,4383
+Region B,2023,8,Summer,9354,3.96,Medium,Email Campaign,15572,154,49.5,6181,66.08,2633
+Region B,2023,8,Summer,4737,4.3,High,Phone Outreach,11677,80,27.95,4064,85.79,4619
+Region B,2023,8,Summer,3439,4.71,Low,Social Media Campaign,6821,152,49.89,1705,49.58,3778
+Region B,2023,9,Summer,9421,1.87,Medium,Food Drive,11840,141,66.72,3686,39.13,2751
+Region B,2023,9,Summer,8538,2.18,Low,Email Campaign,13330,135,25.14,7693,90.1,3198
+Region B,2023,9,Summer,6523,1.67,Low,Phone Outreach,9466,167,26.96,2906,44.55,1721
+Region B,2023,9,Summer,4400,2.05,High,Social Media Campaign,17215,112,40.32,1058,24.05,1172
+Region B,2023,10,Autumn,7948,3.64,Medium,Food Drive,17004,140,41.35,7639,96.11,4960
+Region B,2023,10,Autumn,3936,2.72,Low,Email Campaign,8192,113,22.51,1362,34.6,3682
+Region B,2023,10,Autumn,5373,3.17,High,Phone Outreach,15684,76,35.92,1135,21.12,3906
+Region B,2023,10,Autumn,7503,3.81,High,Social Media Campaign,11773,209,43.26,1739,23.18,1743
+Region B,2023,11,Autumn,3455,1.73,Medium,Food Drive,5199,274,28.88,2841,82.23,2353
+Region B,2023,11,Autumn,7835,4.79,Low,Email Campaign,9038,126,65.79,6200,79.13,3840
+Region B,2023,11,Autumn,4041,1.31,Low,Phone Outreach,8838,195,21.37,1822,45.09,4003
+Region B,2023,11,Autumn,2843,4.5,Medium,Social Media Campaign,6688,206,47.68,1602,56.35,1426
+Region B,2023,12,Autumn,6560,4.74,Low,Food Drive,15149,198,49.47,1278,19.48,1139
+Region B,2023,12,Autumn,6426,1.32,High,Email Campaign,6528,191,63.89,5224,81.29,1986
+Region B,2023,12,Autumn,7013,3.4,Medium,Phone Outreach,12471,119,61.11,5221,74.45,4531
+Region B,2023,12,Autumn,5057,3.99,Low,Social Media Campaign,11456,156,51.59,3017,59.66,2024
+Region B,2024,1,Winter,4844,1.41,Medium,Food Drive,12088,274,21.9,2697,55.68,4545
+Region B,2024,1,Winter,6502,2.03,High,Email Campaign,9824,241,35.97,6165,94.82,4904
+Region B,2024,1,Winter,6251,1.45,Low,Phone Outreach,8090,237,36.1,3235,51.75,3925
+Region B,2024,1,Winter,2992,2.85,Low,Social Media Campaign,6693,234,53.1,2736,91.44,1176
+Region B,2024,2,Winter,3638,3.93,Low,Food Drive,12013,285,20.91,2326,63.94,3367
+Region B,2024,2,Winter,8321,1.5,Medium,Email Campaign,10978,190,25.91,2833,34.05,2094
+Region B,2024,2,Winter,5879,1.83,High,Phone Outreach,14214,239,33.46,1570,26.71,4666
+Region B,2024,2,Winter,2641,3.08,High,Social Media Campaign,5783,153,50.65,1238,46.88,2032
+Region B,2024,3,Winter,6732,1.25,Medium,Food Drive,8667,84,46.5,1054,15.66,2804
+Region B,2024,3,Winter,4138,2.93,Low,Email Campaign,9907,134,58.3,2653,64.11,1479
+Region B,2024,3,Winter,9231,2.25,High,Phone Outreach,5480,68,49.87,6959,75.39,1971
+Region B,2024,3,Winter,9671,1.09,Low,Social Media Campaign,5697,137,41.76,1257,13.0,3149
+Region B,2024,4,Spring,6937,1.27,Low,Food Drive,15249,249,33.14,5595,80.65,2768
+Region B,2024,4,Spring,6986,4.44,Low,Email Campaign,19509,191,42.87,4432,63.44,3306
+Region B,2024,4,Spring,6057,3.15,Medium,Phone Outreach,6235,221,21.9,1110,18.33,1898
+Region B,2024,4,Spring,9469,2.98,High,Social Media Campaign,7294,78,36.38,9008,95.13,4902
+Region B,2024,5,Spring,4400,3.27,Low,Food Drive,19608,245,48.34,1742,39.59,2434
+Region B,2024,5,Spring,4974,3.95,Low,Email Campaign,12564,144,55.88,3284,66.02,3168
+Region B,2024,5,Spring,9581,1.13,Low,Phone Outreach,16242,52,58.97,2897,30.24,2306
+Region B,2024,5,Spring,9681,3.74,Medium,Social Media Campaign,15676,244,38.71,5886,60.8,2097
+Region B,2024,6,Spring,3079,3.98,High,Food Drive,13384,168,31.26,1023,33.23,2097
+Region B,2024,6,Spring,2922,4.86,High,Email Campaign,9581,126,43.38,1448,49.56,1472
+Region B,2024,6,Spring,5742,2.71,Low,Phone Outreach,10981,66,28.78,4118,71.72,4707
+Region B,2024,6,Spring,7883,1.3,Low,Social Media Campaign,9873,72,36.11,7432,94.28,2137
+Region B,2024,7,Summer,3041,2.48,High,Food Drive,6303,264,47.25,1354,44.52,4615
+Region B,2024,7,Summer,6647,3.45,Medium,Email Campaign,18306,264,23.35,3639,54.75,4850
+Region B,2024,7,Summer,5663,4.31,High,Phone Outreach,9684,199,64.71,3923,69.27,3639
+Region B,2024,7,Summer,4663,2.28,Low,Social Media Campaign,10657,278,65.24,4421,94.81,4861
+Region B,2024,8,Summer,6301,4.55,Medium,Food Drive,9810,194,69.24,4952,78.59,1294
+Region B,2024,8,Summer,3934,3.3,Low,Email Campaign,15095,256,41.19,3138,79.77,4344
+Region B,2024,8,Summer,9082,2.97,Low,Phone Outreach,18757,57,49.8,5761,63.43,2384
+Region B,2024,8,Summer,2818,4.45,High,Social Media Campaign,10840,178,37.94,1791,63.56,4697
+Region B,2024,9,Summer,2765,2.41,High,Food Drive,6557,182,28.09,1142,41.3,4045
+Region B,2024,9,Summer,2855,4.55,High,Email Campaign,7872,189,29.76,1750,61.3,4637
+Region B,2024,9,Summer,3568,4.46,Medium,Phone Outreach,17305,214,51.52,3440,96.41,1590
+Region B,2024,9,Summer,7914,3.62,High,Social Media Campaign,16848,146,21.79,7719,97.54,2191
+Region B,2024,10,Autumn,5171,3.98,Medium,Food Drive,14524,65,51.52,3158,61.07,4457
+Region B,2024,10,Autumn,5251,3.25,Medium,Email Campaign,6072,200,58.99,2727,51.93,4626
+Region B,2024,10,Autumn,8233,2.87,High,Phone Outreach,15500,186,24.83,2931,35.6,3342
+Region B,2024,10,Autumn,6455,3.25,Medium,Social Media Campaign,9562,148,22.91,2835,43.92,4407
+Region B,2024,11,Autumn,2793,1.68,Low,Food Drive,11598,298,39.11,1742,62.37,2531
+Region B,2024,11,Autumn,9162,2.07,High,Email Campaign,6183,52,68.73,1048,11.44,3327
+Region B,2024,11,Autumn,4035,1.26,High,Phone Outreach,13500,165,41.22,2217,54.94,2955
+Region B,2024,11,Autumn,2568,4.88,Low,Social Media Campaign,14444,219,53.77,2441,95.05,4529
+Region B,2024,12,Autumn,7538,2.08,Low,Food Drive,16548,274,42.54,4047,53.69,3422
+Region B,2024,12,Autumn,9594,4.56,Low,Email Campaign,17770,227,53.99,5245,54.67,2405
+Region B,2024,12,Autumn,2990,2.97,Medium,Phone Outreach,6762,88,62.4,2984,99.8,1323
+Region B,2024,12,Autumn,4417,3.86,High,Social Media Campaign,11406,110,44.06,3932,89.02,2280
+Region C,2023,1,Winter,7035,2.06,High,Food Drive,10439,179,63.35,5388,76.59,4239
+Region C,2023,1,Winter,4635,1.67,High,Email Campaign,16544,225,27.52,1355,29.23,4394
+Region C,2023,1,Winter,3396,4.56,High,Phone Outreach,19664,221,63.9,1325,39.02,4162
+Region C,2023,1,Winter,6151,3.74,Low,Social Media Campaign,15605,232,54.96,4742,77.09,2449
+Region C,2023,2,Winter,9386,3.89,Medium,Food Drive,18934,201,23.43,3694,39.36,1058
+Region C,2023,2,Winter,5219,3.81,High,Email Campaign,10728,167,27.79,2042,39.13,1648
+Region C,2023,2,Winter,9998,3.09,Low,Phone Outreach,8841,279,69.56,7838,78.4,4759
+Region C,2023,2,Winter,6430,3.81,Low,Social Media Campaign,8646,194,64.9,2357,36.66,2230
+Region C,2023,3,Winter,4748,4.87,Medium,Food Drive,5379,91,46.84,2294,48.32,2164
+Region C,2023,3,Winter,2534,4.2,Low,Email Campaign,9432,201,58.05,2001,78.97,3467
+Region C,2023,3,Winter,4581,2.14,High,Phone Outreach,19218,105,37.64,4226,92.25,3138
+Region C,2023,3,Winter,4830,1.01,Medium,Social Media Campaign,18032,190,53.94,3337,69.09,3161
+Region C,2023,4,Spring,9375,2.61,Low,Food Drive,5660,237,50.84,5061,53.98,2251
+Region C,2023,4,Spring,2496,2.52,High,Email Campaign,16654,158,43.89,2340,93.75,1818
+Region C,2023,4,Spring,4351,4.14,Medium,Phone Outreach,13603,300,38.45,1227,28.2,2903
+Region C,2023,4,Spring,3611,2.11,Low,Social Media Campaign,12613,219,28.52,1124,31.13,3800
+Region C,2023,5,Spring,2401,4.68,High,Food Drive,17868,77,47.28,1446,60.22,4120
+Region C,2023,5,Spring,8642,1.61,High,Email Campaign,5645,237,27.79,5344,61.84,3301
+Region C,2023,5,Spring,2184,3.55,Medium,Phone Outreach,14226,194,58.5,1859,85.12,4700
+Region C,2023,5,Spring,5274,4.24,Low,Social Media Campaign,7600,250,22.29,2437,46.21,1017
+Region C,2023,6,Spring,9593,2.64,Medium,Food Drive,19029,91,68.81,1616,16.85,4341
+Region C,2023,6,Spring,7323,2.91,Medium,Email Campaign,6566,218,65.5,3136,42.82,4379
+Region C,2023,6,Spring,2571,3.6,Low,Phone Outreach,19257,101,21.11,1858,72.27,1722
+Region C,2023,6,Spring,4529,1.04,High,Social Media Campaign,18729,113,34.39,2267,50.06,1314
+Region C,2023,7,Summer,7564,2.1,High,Food Drive,11112,51,48.13,7309,96.63,2870
+Region C,2023,7,Summer,2045,3.52,Medium,Email Campaign,17510,95,46.0,1381,67.53,3700
+Region C,2023,7,Summer,5671,2.29,Low,Phone Outreach,9800,273,42.29,1605,28.3,3215
+Region C,2023,7,Summer,2893,4.66,High,Social Media Campaign,8104,156,49.83,2106,72.8,2357
+Region C,2023,8,Summer,7680,2.57,High,Food Drive,7048,95,50.13,1840,23.96,3267
+Region C,2023,8,Summer,6752,4.85,Low,Email Campaign,5698,228,31.62,4357,64.53,4085
+Region C,2023,8,Summer,3034,4.55,Low,Phone Outreach,7282,55,32.23,2192,72.25,4559
+Region C,2023,8,Summer,6632,3.04,High,Social Media Campaign,7247,293,34.15,4148,62.55,4769
+Region C,2023,9,Summer,8680,4.02,Low,Food Drive,10877,73,35.19,6235,71.83,4304
+Region C,2023,9,Summer,4623,1.73,High,Email Campaign,9459,116,49.65,4506,97.47,1339
+Region C,2023,9,Summer,6258,4.73,Medium,Phone Outreach,17978,161,23.33,5535,88.45,4547
+Region C,2023,9,Summer,4895,4.01,High,Social Media Campaign,10486,51,42.35,4134,84.45,1472
+Region C,2023,10,Autumn,6636,3.91,Low,Food Drive,17950,169,49.25,4023,60.62,4859
+Region C,2023,10,Autumn,2802,3.12,Medium,Email Campaign,9729,130,28.09,1115,39.79,4576
+Region C,2023,10,Autumn,7007,3.48,Low,Phone Outreach,5238,212,59.02,1335,19.05,4556
+Region C,2023,10,Autumn,5154,3.35,Low,Social Media Campaign,15324,102,57.25,2516,48.82,3182
+Region C,2023,11,Autumn,2254,3.51,Medium,Food Drive,5981,199,66.77,1655,73.43,1380
+Region C,2023,11,Autumn,3124,3.0,Low,Email Campaign,19991,242,45.86,1155,36.97,4977
+Region C,2023,11,Autumn,6058,2.95,High,Phone Outreach,8939,218,25.64,1244,20.53,4310
+Region C,2023,11,Autumn,5402,4.77,Medium,Social Media Campaign,19382,86,51.09,4962,91.85,2832
+Region C,2023,12,Autumn,8977,3.07,High,Food Drive,16490,246,25.42,5827,64.91,3286
+Region C,2023,12,Autumn,5660,4.51,Low,Email Campaign,5988,179,38.59,1298,22.93,2262
+Region C,2023,12,Autumn,2206,4.23,High,Phone Outreach,12242,255,34.57,1288,58.39,2214
+Region C,2023,12,Autumn,4255,2.9,High,Social Media Campaign,16957,147,36.55,2584,60.73,1094
+Region C,2024,1,Winter,8804,4.4,Low,Food Drive,9189,284,24.54,8581,97.47,2251
+Region C,2024,1,Winter,8035,3.25,Medium,Email Campaign,19898,162,53.27,5742,71.46,4610
+Region C,2024,1,Winter,4521,2.2,Low,Phone Outreach,14526,159,31.93,3751,82.97,4924
+Region C,2024,1,Winter,6137,4.53,Medium,Social Media Campaign,19107,294,35.85,2823,46.0,2511
+Region C,2024,2,Winter,9207,1.33,Medium,Food Drive,19654,274,49.29,7785,84.56,2153
+Region C,2024,2,Winter,6842,4.46,Medium,Email Campaign,15951,125,20.81,5709,83.44,4325
+Region C,2024,2,Winter,7980,1.13,High,Phone Outreach,9933,106,63.07,5883,73.72,1756
+Region C,2024,2,Winter,9504,4.31,Low,Social Media Campaign,5168,136,58.22,1653,17.39,2261
+Region C,2024,3,Winter,6439,1.31,High,Food Drive,5440,291,36.55,1898,29.48,4603
+Region C,2024,3,Winter,5523,2.06,Medium,Email Campaign,9037,288,35.5,1490,26.98,4927
+Region C,2024,3,Winter,7266,4.3,Low,Phone Outreach,18882,68,34.2,5249,72.24,1718
+Region C,2024,3,Winter,2271,2.48,High,Social Media Campaign,11205,141,38.83,1685,74.2,3809
+Region C,2024,4,Spring,7225,4.63,Medium,Food Drive,9772,278,35.17,6864,95.0,4775
+Region C,2024,4,Spring,9343,3.52,Low,Email Campaign,12365,285,27.28,3442,36.84,1282
+Region C,2024,4,Spring,2223,3.4,Low,Phone Outreach,18816,262,25.36,2222,99.96,2702
+Region C,2024,4,Spring,4415,4.04,Medium,Social Media Campaign,18042,111,46.32,1399,31.69,1610
+Region C,2024,5,Spring,5979,2.19,High,Food Drive,5583,74,39.98,2597,43.44,1294
+Region C,2024,5,Spring,8614,4.28,Medium,Email Campaign,15777,179,23.96,3807,44.2,3071
+Region C,2024,5,Spring,9121,3.02,High,Phone Outreach,16498,259,69.9,6622,72.6,3137
+Region C,2024,5,Spring,3862,2.05,Medium,Social Media Campaign,15827,114,29.1,3738,96.79,4784
+Region C,2024,6,Spring,3456,4.31,High,Food Drive,6515,256,62.97,2342,67.77,4272
+Region C,2024,6,Spring,3170,4.59,High,Email Campaign,9463,152,36.02,2413,76.12,2854
+Region C,2024,6,Spring,2970,1.98,High,Phone Outreach,8619,281,54.76,2402,80.88,2817
+Region C,2024,6,Spring,5371,4.72,Medium,Social Media Campaign,9846,251,20.97,1411,26.27,4035
+Region C,2024,7,Summer,5624,2.27,Low,Food Drive,8997,228,25.75,1922,34.17,4913
+Region C,2024,7,Summer,4768,3.16,High,Email Campaign,8306,91,58.92,2211,46.37,1323
+Region C,2024,7,Summer,4300,1.03,High,Phone Outreach,16932,235,53.36,2420,56.28,4577
+Region C,2024,7,Summer,2483,2.8,Medium,Social Media Campaign,6703,117,36.65,1832,73.78,1240
+Region C,2024,8,Summer,6700,2.81,Medium,Food Drive,10442,88,49.72,6462,96.45,3553
+Region C,2024,8,Summer,4931,3.25,High,Email Campaign,12914,100,39.16,2302,46.68,3843
+Region C,2024,8,Summer,6060,3.21,Low,Phone Outreach,16136,191,53.87,5332,87.99,2054
+Region C,2024,8,Summer,7018,4.35,Low,Social Media Campaign,10677,194,67.72,3177,45.27,4873
+Region C,2024,9,Summer,2997,1.38,Low,Food Drive,6619,224,27.73,2442,81.48,4470
+Region C,2024,9,Summer,7326,4.55,Low,Email Campaign,12789,225,58.16,3592,49.03,3833
+Region C,2024,9,Summer,7930,1.9,Low,Phone Outreach,6479,234,47.61,1586,20.0,2533
+Region C,2024,9,Summer,8172,2.62,High,Social Media Campaign,18582,110,54.03,5461,66.83,4072
+Region C,2024,10,Autumn,4030,4.09,High,Food Drive,7372,269,48.34,2743,68.06,3436
+Region C,2024,10,Autumn,8915,1.41,Low,Email Campaign,9707,289,35.84,6443,72.27,3762
+Region C,2024,10,Autumn,9232,4.78,High,Phone Outreach,12229,145,65.82,4806,52.06,4235
+Region C,2024,10,Autumn,8203,3.67,High,Social Media Campaign,10726,155,22.78,7377,89.93,4316
+Region C,2024,11,Autumn,8050,4.89,Low,Food Drive,10979,217,38.03,7245,90.0,1625
+Region C,2024,11,Autumn,3214,1.83,Low,Email Campaign,19851,106,34.36,1344,41.82,4362
+Region C,2024,11,Autumn,3191,1.09,High,Phone Outreach,6668,58,39.19,2307,72.3,3270
+Region C,2024,11,Autumn,3017,3.79,High,Social Media Campaign,12106,194,30.17,1554,51.51,1292
+Region C,2024,12,Autumn,3707,2.24,Low,Food Drive,18660,112,26.2,1369,36.93,1100
+Region C,2024,12,Autumn,2167,1.89,Low,Email Campaign,7751,292,35.54,1145,52.84,1117
+Region C,2024,12,Autumn,2748,2.56,Medium,Phone Outreach,14528,230,36.94,2167,78.86,2987
+Region C,2024,12,Autumn,2682,3.03,Low,Social Media Campaign,5722,270,67.32,2375,88.55,3070
+Region D,2023,1,Winter,8125,1.03,Low,Food Drive,11423,87,65.48,4223,51.98,2259
+Region D,2023,1,Winter,6826,4.57,Low,Email Campaign,9568,251,69.95,5780,84.68,2726
+Region D,2023,1,Winter,2237,3.71,Medium,Phone Outreach,6005,291,64.09,2223,99.37,2026
+Region D,2023,1,Winter,6279,4.37,Medium,Social Media Campaign,5646,72,49.89,3964,63.13,1517
+Region D,2023,2,Winter,4006,3.74,Low,Food Drive,9745,204,69.3,2665,66.53,4955
+Region D,2023,2,Winter,7113,1.13,High,Email Campaign,8742,274,45.08,3901,54.84,2465
+Region D,2023,2,Winter,7388,3.83,Low,Phone Outreach,10057,194,57.55,3331,45.09,3178
+Region D,2023,2,Winter,5798,3.76,Low,Social Media Campaign,5717,128,57.66,3087,53.24,3635
+Region D,2023,3,Winter,4793,2.44,Low,Food Drive,10247,196,65.93,1453,30.32,2918
+Region D,2023,3,Winter,5056,2.13,High,Email Campaign,18939,125,66.6,3628,71.76,3068
+Region D,2023,3,Winter,9953,4.03,Medium,Phone Outreach,14963,150,27.78,8753,87.94,4123
+Region D,2023,3,Winter,7719,4.24,High,Social Media Campaign,6711,132,35.34,5419,70.2,4068
+Region D,2023,4,Spring,2662,4.86,Medium,Food Drive,14078,234,46.41,1737,65.25,4063
+Region D,2023,4,Spring,5261,4.28,Low,Email Campaign,9794,174,62.33,2767,52.59,4805
+Region D,2023,4,Spring,2459,4.88,Low,Phone Outreach,9636,107,62.07,1705,69.34,3071
+Region D,2023,4,Spring,9313,2.27,Low,Social Media Campaign,17146,190,36.65,3883,41.69,4227
+Region D,2023,5,Spring,6607,2.77,High,Food Drive,11906,144,53.64,3989,60.38,4843
+Region D,2023,5,Spring,8429,4.55,Low,Email Campaign,15962,249,60.35,5711,67.75,4584
+Region D,2023,5,Spring,8793,3.41,Medium,Phone Outreach,13507,107,59.76,5472,62.23,3662
+Region D,2023,5,Spring,2948,5.0,Medium,Social Media Campaign,5013,124,20.27,2777,94.2,2809
+Region D,2023,6,Spring,4449,2.05,Low,Food Drive,12300,84,44.46,1995,44.84,4801
+Region D,2023,6,Spring,3925,2.2,Medium,Email Campaign,9568,156,32.91,1942,49.48,2867
+Region D,2023,6,Spring,7111,4.7,High,Phone Outreach,11521,110,50.35,4492,63.17,2210
+Region D,2023,6,Spring,6483,2.25,High,Social Media Campaign,19946,299,33.15,5542,85.49,1548
+Region D,2023,7,Summer,3660,1.33,Medium,Food Drive,13832,159,32.29,3403,92.98,1440
+Region D,2023,7,Summer,6722,3.53,Medium,Email Campaign,8757,92,61.39,4443,66.1,4441
+Region D,2023,7,Summer,3468,2.12,Medium,Phone Outreach,17459,104,23.45,2838,81.83,2315
+Region D,2023,7,Summer,6192,4.76,Medium,Social Media Campaign,7147,159,21.97,3766,60.82,2782
+Region D,2023,8,Summer,9253,2.32,High,Food Drive,5959,225,66.82,6998,75.63,3038
+Region D,2023,8,Summer,5428,2.05,Low,Email Campaign,9879,103,36.82,2978,54.86,2556
+Region D,2023,8,Summer,7232,2.11,Medium,Phone Outreach,7280,76,56.82,1481,20.48,4697
+Region D,2023,8,Summer,3866,2.57,Low,Social Media Campaign,14228,239,59.42,2743,70.95,2573
+Region D,2023,9,Summer,3315,4.68,Medium,Food Drive,16591,107,62.77,2205,66.52,3884
+Region D,2023,9,Summer,4976,2.76,Medium,Email Campaign,16581,238,25.93,3669,73.73,1693
+Region D,2023,9,Summer,8275,2.12,High,Phone Outreach,14149,73,37.24,8110,98.01,4286
+Region D,2023,9,Summer,2158,3.38,Low,Social Media Campaign,16229,130,57.41,2027,93.93,1007
+Region D,2023,10,Autumn,2390,1.84,High,Food Drive,5814,257,62.7,2146,89.79,4157
+Region D,2023,10,Autumn,4900,1.73,Medium,Email Campaign,5313,80,34.13,4434,90.49,2144
+Region D,2023,10,Autumn,3208,3.06,Low,Phone Outreach,15484,238,23.27,2269,70.73,2605
+Region D,2023,10,Autumn,7967,2.28,Low,Social Media Campaign,15567,226,30.86,7494,94.06,2710
+Region D,2023,11,Autumn,6013,4.63,High,Food Drive,19583,76,46.66,3887,64.64,2957
+Region D,2023,11,Autumn,3283,2.08,Medium,Email Campaign,14485,299,39.45,1174,35.76,1483
+Region D,2023,11,Autumn,4636,3.61,Medium,Phone Outreach,6806,66,42.9,3421,73.79,1085
+Region D,2023,11,Autumn,8497,3.03,High,Social Media Campaign,7803,86,32.85,3114,36.65,1729
+Region D,2023,12,Autumn,7216,4.57,High,Food Drive,6187,208,65.35,2467,34.19,5000
+Region D,2023,12,Autumn,8492,3.32,Low,Email Campaign,19016,150,69.96,1640,19.31,1245
+Region D,2023,12,Autumn,9293,2.12,Medium,Phone Outreach,13791,120,37.2,7774,83.65,1016
+Region D,2023,12,Autumn,4756,1.94,High,Social Media Campaign,17243,185,42.38,2647,55.66,4166
+Region D,2024,1,Winter,2920,2.24,High,Food Drive,19999,96,33.12,1895,64.9,3961
+Region D,2024,1,Winter,8361,2.71,Low,Email Campaign,17165,184,29.36,5169,61.82,4576
+Region D,2024,1,Winter,8904,2.3,High,Phone Outreach,14240,240,52.99,2567,28.83,3133
+Region D,2024,1,Winter,3584,2.35,Low,Social Media Campaign,5243,54,34.77,2516,70.2,1029
+Region D,2024,2,Winter,8391,3.38,Medium,Food Drive,13895,258,45.72,1232,14.68,1928
+Region D,2024,2,Winter,6631,3.24,Low,Email Campaign,17309,292,25.52,2068,31.19,4531
+Region D,2024,2,Winter,2628,2.57,Low,Phone Outreach,8266,253,45.04,1102,41.93,1830
+Region D,2024,2,Winter,6858,3.05,High,Social Media Campaign,16769,178,55.27,1193,17.4,1015
+Region D,2024,3,Winter,9522,2.82,Low,Food Drive,7052,182,28.16,8287,87.03,4930
+Region D,2024,3,Winter,2909,3.27,Medium,Email Campaign,14176,116,65.16,1950,67.03,4963
+Region D,2024,3,Winter,7111,1.17,High,Phone Outreach,13256,246,25.92,4917,69.15,3155
+Region D,2024,3,Winter,7336,3.36,Medium,Social Media Campaign,6740,264,24.36,2793,38.07,1918
+Region D,2024,4,Spring,8820,4.85,Medium,Food Drive,15935,143,47.74,1594,18.07,3981
+Region D,2024,4,Spring,2000,1.85,Low,Email Campaign,12505,287,55.92,1826,91.3,2762
+Region D,2024,4,Spring,3222,4.11,Low,Phone Outreach,18578,262,62.13,1143,35.47,4758
+Region D,2024,4,Spring,5351,4.49,High,Social Media Campaign,9599,258,63.3,3629,67.82,3016
+Region D,2024,5,Spring,4327,2.29,Medium,Food Drive,8815,261,29.27,1534,35.45,2066
+Region D,2024,5,Spring,9428,4.98,High,Email Campaign,14739,232,64.61,4903,52.0,1486
+Region D,2024,5,Spring,5297,4.52,Low,Phone Outreach,18826,108,55.74,2246,42.4,4787
+Region D,2024,5,Spring,9298,2.98,Low,Social Media Campaign,19885,206,24.0,8887,95.58,1960
+Region D,2024,6,Spring,7637,2.69,High,Food Drive,11131,69,65.07,1964,25.72,4255
+Region D,2024,6,Spring,6455,4.43,High,Email Campaign,13376,239,62.73,4340,67.23,4373
+Region D,2024,6,Spring,2008,1.33,High,Phone Outreach,14147,175,33.21,1418,70.62,1753
+Region D,2024,6,Spring,9531,4.63,Low,Social Media Campaign,16280,145,68.48,8117,85.16,3699
+Region D,2024,7,Summer,8968,1.25,High,Food Drive,14986,201,29.39,3976,44.34,2768
+Region D,2024,7,Summer,7097,1.37,Medium,Email Campaign,9624,179,57.41,3052,43.0,3105
+Region D,2024,7,Summer,9894,4.47,Low,Phone Outreach,5546,171,39.3,5697,57.58,2384
+Region D,2024,7,Summer,7835,4.27,Low,Social Media Campaign,13349,184,56.15,4697,59.95,1295
+Region D,2024,8,Summer,3843,3.47,Low,Food Drive,5930,118,51.14,2693,70.08,2762
+Region D,2024,8,Summer,4894,4.69,Medium,Email Campaign,7204,100,58.35,1631,33.33,3147
+Region D,2024,8,Summer,5064,1.23,High,Phone Outreach,5653,221,49.84,2776,54.82,3954
+Region D,2024,8,Summer,5441,4.08,Low,Social Media Campaign,9463,153,26.93,1916,35.21,3767
+Region D,2024,9,Summer,2967,2.4,Low,Food Drive,5281,197,53.81,2569,86.59,4551
+Region D,2024,9,Summer,7775,1.64,Low,Email Campaign,8723,229,28.06,3636,46.77,4022
+Region D,2024,9,Summer,4527,3.75,High,Phone Outreach,8608,84,36.33,4029,89.0,3300
+Region D,2024,9,Summer,2770,4.21,Medium,Social Media Campaign,10726,85,40.4,1486,53.65,2153
+Region D,2024,10,Autumn,3273,2.07,Low,Food Drive,8626,141,37.02,1382,42.22,2005
+Region D,2024,10,Autumn,4064,4.59,High,Email Campaign,6450,93,53.64,2896,71.26,2998
+Region D,2024,10,Autumn,5222,2.62,Medium,Phone Outreach,11479,73,61.88,2580,49.41,4071
+Region D,2024,10,Autumn,8465,3.69,Low,Social Media Campaign,17056,280,50.09,2756,32.56,2918
+Region D,2024,11,Autumn,8088,3.69,Low,Food Drive,14847,239,20.94,7244,89.56,4851
+Region D,2024,11,Autumn,7003,1.7,Low,Email Campaign,18940,111,39.08,2655,37.91,1271
+Region D,2024,11,Autumn,9686,2.43,Low,Phone Outreach,7068,264,30.03,3075,31.75,3450
+Region D,2024,11,Autumn,5977,4.9,High,Social Media Campaign,16373,125,59.51,2918,48.82,3205
+Region D,2024,12,Autumn,8365,3.53,High,Food Drive,16375,89,32.68,5256,62.83,2538
+Region D,2024,12,Autumn,4689,4.95,High,Email Campaign,15456,192,58.06,3083,65.75,2762
+Region D,2024,12,Autumn,5022,3.3,Medium,Phone Outreach,7165,92,24.53,3002,59.78,4173
+Region D,2024,12,Autumn,9031,1.25,Medium,Social Media Campaign,7851,78,52.72,8534,94.5,4151
